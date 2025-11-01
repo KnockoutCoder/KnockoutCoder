@@ -2,9 +2,9 @@
   <img src="banner.gif" alt="Hi there, I'm Kacey Niñal (~KC)" width="100%">
 </p>
 
-<p align="center" style="font-size:20px; font-weight:600; max-width: 800px;">
-  .. from <strong>kickoff decks & QBRs</strong> to <strong>deployment pipelines</strong> -  
-  finally fixing the features I used to file tickets for. ˗ˏˋ☕ˎˊ˗
+<p align="center" style="font-size:20px; font-weight:600; max-width: 800px;"><em>
+  ✨ from <strong>kickoff decks & QBRs</strong> to <strong>deployment pipelines</strong> -  
+  finally fixing the features I used to file tickets for ˗ˏˋ☕ˎˊ˗</em>
 </p>
 
 <p align="center">
