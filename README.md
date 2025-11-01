@@ -68,16 +68,6 @@ and just to put it out there - I’m a big fan of the DRY principle. Not just in
 }
 ---
 
-## .what-i-build { 
-
-  **full-stack SaaS & marketplace apps**: built with MERN/Next.js + GraphQL APIs + AWS deployments;  
-  **automation & integration tools**: webhook systems, API orchestration, and internal dashboards;  
-  **data-driven frontends**: SSR/ISR dashboards and admin tools for operators & sellers;  
-  **reliable backends**: instrumented with logging, tracing, and retry logic;  
-
-}
----
-
 ## .my-product-engineering-philosophy { 
 
 <p align="center">
@@ -96,8 +86,19 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 
 }
 ---
+<details>
+<summary><h2>.what-i-build {</h2></summary>
 
-## .highlights { 
+  **full-stack SaaS & marketplace apps**: built with MERN/Next.js + GraphQL APIs + AWS deployments;  
+  **automation & integration tools**: webhook systems, API orchestration, and internal dashboards;  
+  **data-driven frontends**: SSR/ISR dashboards and admin tools for operators & sellers;  
+  **reliable backends**: instrumented with logging, tracing, and retry logic;  
+
+}
+---
+</details>
+<details>
+<summary><h2>.highlights {</h2></summary> 
 
 | Category | Focus | Example |
 |-----------|--------|---------|
@@ -107,17 +108,20 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 | **Cloud** | AWS + CI/CD | Automated deployments, CloudWatch logging |
 | **Reliability** | Webhooks + Observability | Idempotent event handling & alerts |
 
+}
 ---
-
-## .codewars-rank {  
+</details>
+<details>
+<summary><h2>.codewars-rank {</h2></summary>   
 
 <p align="center">
   <img src="https://www.codewars.com/users/kryscel/badges/large" alt="Codewars Badge">
 </p>
 
 }
-
-## .github-stats {
+</details>
+<details>
+<summary><h2>.github-stats {</h2></summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin: 10px 0;" />
@@ -129,8 +133,9 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 
 }
 ---
-
-## .what-i-built {
+</details>
+<details>
+<summary><h2>.what-i've-built {</h2></summary>
 
 ### 1. AI-powered color & face shape analyzer  
 a web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
@@ -159,3 +164,4 @@ also, it finally justifies the hours I’ve spent color-matching code editors to
 ### 2. (coming soon)
 
 }
+</details>
