@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="font-size:20px; font-weight:600; max-width: 800px;">
-  From <strong>Kickoff Decks & QBRs</strong> to <strong>Deployment Pipelines</strong> -  
+  .. from <strong>kickoff decks & QBRs</strong> to <strong>deployment pipelines</strong> -  
   finally fixing the features I used to file tickets for. ˗ˏˋ☕ˎˊ˗
 </p>
 
@@ -15,21 +15,21 @@
 
 ## .about-me {
 
-So... I’m an aspiring **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
+so... i’m an aspiring **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
 
-When I wasn’t doing that, I was leading back-to-back client meetings - training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording.
+when I wasn’t doing that, I was leading back-to-back client meetings - training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording.
 
 <p align="center">
   <img src="officeladysmiling.gif" alt="KC working somehow" width="30%">
 </p>
 
-Now I'm becoming that engineer I used to chase in Slack - still googling half my fixes, building the very features I used to beg for in JIRA comments, but at least it’s my own code now. 𐔌՞. .՞𐦯  and I'm finally living the life of the engineer on the other side of the ticket, whose reply takes a few deploys, a rollback, and emotional recovery time.
+now I'm becoming that engineer I used to chase in Slack - still googling half my fixes, building the very features I used to beg for in JIRA comments, but at least it’s my own code now. 𐔌՞. .՞𐦯  and I'm finally living the life of the engineer on the other side of the ticket, whose reply takes a few deploys, a rollback, and emotional recovery time.
 
-After years helping SaaS teams and marketplaces ship big, messy launches, I swapped onboarding checklists, delivery decks, and QBR meetings for code reviews - helping build the very platforms I once helped businesses grow on.
+after years helping SaaS teams and marketplaces ship big, messy launches, I swapped onboarding checklists, delivery decks, and QBR meetings for code reviews - helping build the very platforms I once helped businesses grow on.
 
-I like to think of my work as somewhere between product empathy and disciplined engineering - building tools that respect both the roadmap and the humans behind it, because the best systems scale only when the people using them do too.
+i like to think of my work as somewhere between product empathy and disciplined engineering - building tools that respect both the roadmap and the humans behind it, because the best systems scale only when the people using them do too.
 
-And just to put it out there - I’m a big fan of the DRY principle. Not just in code, but also in meetings, documentation, and life in general. ◡̈
+and just to put it out there - I’m a big fan of the DRY principle. Not just in code, but also in meetings, documentation, and life in general. ◡̈
 
 }
 ---
@@ -88,9 +88,9 @@ And just to put it out there - I’m a big fan of the DRY principle. Not just in
   > - **build like i'll maintain it** - clean, observable, testable code is cheaper than therapy later - and it's also how I apologize to my future self.
   > - **communicate like a teammate** - clarity, empathy, and a touch of over-explaining never hurt anyone.. and it actually scales.  
 
-I see engineering as a conversation between design, logic, and people - not just code. 
-It’s about translating “it works on my machine” into “it works for the user.” 
-Because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
+i see engineering as a conversation between design, logic, and people - not just code. 
+it’s about translating “it works on my machine” into “it works for the user.” 
+because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 
 <p align="center"><em>// commit: documented my existential coding beliefs</em></p>
 
