@@ -80,13 +80,17 @@ And just to put it out there - I’m a big fan of the DRY principle. Not just in
 
 ## .my-product-engineering-philosophy { 
 
-  >**Think like a PM** – define outcomes before architecture, success metrics before syntax.. or you’ll ship the wrong thing beautifully.  
-  >**Build like an engineer** – clean, observable, testable code is cheaper than therapy later - and it's how you apologize to your future self.
-  >**Communicate like a CSM** – clarity, empathy, and a touch of over-explaining never hurt anyone.. and it actually scales.  
+<p align="center">
+  <img src="thinking.gif" alt="KC pretending to think" width="30%">
+</p>
+
+  > - **Think like a PM** - define outcomes before architecture, success metrics before syntax.. or we’ll end up shipping the wrong thing beautifully.  
+  > - **Build like an engineer** - clean, observable, testable code is cheaper than therapy later - and it's also how I apologize to my future self.
+  > - **Communicate like a CSM** - clarity, empathy, and a touch of over-explaining never hurt anyone.. and it actually scales.  
 
 I see engineering as a conversation between design, logic, and people - not just code. 
 It’s about translating “it works on my machine” into “it works for the user.” 
-Because sometimes, the hardest bug to fix is miscommunication. 
+Because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 
 <p align="center"><em>// commit: documented my existential coding beliefs</em></p>
 
