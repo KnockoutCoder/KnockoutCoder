@@ -15,9 +15,9 @@
 
 ## 🌙 About Me
 
-I’m a **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.”  
+So... I’m a **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” 😅  
 
-Now I *am* that engineer - still googling half my fixes, building the very features I used to beg for in JIRA comments, but at least it’s my own code now. 🧑‍💻  and I finally understand why they took so long to reply. 😅
+Now I *am* that engineer - still googling half my fixes, building the very features I used to beg for in JIRA comments, but at least it’s my own code now. 🧑‍💻  and I finally understand why they took so long to reply! LOL 
 
 After years helping SaaS teams and marketplaces ship big, messy launches, I decided to build the tools I used to deliver - one pull request at a time.  
 
