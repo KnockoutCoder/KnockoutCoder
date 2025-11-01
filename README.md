@@ -17,11 +17,11 @@
 
 So... I’m an aspiring **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” 😅  
 
-Now I *am* (on my way to being) that engineer - still googling half my fixes, building the very features I used to beg for in JIRA comments, but at least it’s my own code now. 🧑‍💻  and I finally understand why they took so long to reply! LOL 
+Now I'm becoming that engineer I used to chase in Slack - still googling half my fixes, building the very features I used to beg for in JIRA comments, but at least it’s my own code now. 🧑‍💻  and I'm finally living the life of the engineer on the other side of the ticket, whose reply takes a few deploys, a rollback, and emotional recovery time.
 
-After years helping SaaS teams and marketplaces ship big, messy launches, I decided to build the tools I used to deliver - one pull request at a time.  
+After years helping SaaS teams and marketplaces ship big, messy launches, I swapped onboarding checklists, delivery decks, and QBR meetings for code reviews - helping build the very platforms I once helped businesses grow on.
 
-I bring a blend of **technical execution**, **product empathy**, and **delivery discipline**, bridging business logic, UX, and scalable code (and occasionally fixing my own “feature requests”).  
+I like to think of my work as somewhere between product empathy and disciplined engineering - building tools that respect both the roadmap and the humans behind it, because the best systems scale only when the people using them do too.
 
 ---
 
