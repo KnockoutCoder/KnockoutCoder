@@ -36,44 +36,32 @@ and just to put it out there - I’m a big fan of the DRY principle. Not just in
 if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆｡ ˚
 
 }
----
+<p>
+  <img src="scribble.gif" alt="divider line" width="50%">
+</p>
 
 ## .my-current-tech-stack { 
 
-<p align="center">
-  <img src="funnytech.gif" alt="Funny old lady taking photo the wrong way" width="30%">
-</p>
 
-### </> Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0A0F18?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0A0F18?logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0F18?logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0A0F18?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0A0F18?logo=nextdotjs&logoColor=white)
+<div align="center">
 
-### ⋆˙⟡ Backend
-![Node.js](https://img.shields.io/badge/Node.js-0A0F18?logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0A0F18?logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-0A0F18?logo=graphql&logoColor=E10098)
-![Apollo](https://img.shields.io/badge/Apollo-0A0F18?logo=apollographql&logoColor=white)
+| 🖥️ **frontend** | ⚙️ **backend** |
+|:----------------|:---------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-0A0F18?logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0A0F18?logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F18?logo=javascript&logoColor=F7DF1E) <br> ![React](https://img.shields.io/badge/React-0A0F18?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0A0F18?logo=nextdotjs&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-0A0F18?logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-0A0F18?logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-0A0F18?logo=graphql&logoColor=E10098) ![Apollo](https://img.shields.io/badge/Apollo-0A0F18?logo=apollographql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-0A0F18?logo=mongodb&logoColor=47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F18?logo=postgresql&logoColor=336791) ![Prisma](https://img.shields.io/badge/Prisma-0A0F18?logo=prisma&logoColor=2D3748)|
 
-### 🕸 Databases & ORM
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0F18?logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F18?logo=postgresql&logoColor=336791)
-![Prisma](https://img.shields.io/badge/Prisma-0A0F18?logo=prisma&logoColor=2D3748)
 
-### ꪜ Quality & Reliability
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0F18?logo=typescript&logoColor=3178C6)
-![Jest](https://img.shields.io/badge/Jest-0A0F18?logo=jest&logoColor=C21325)
-![Supertest](https://img.shields.io/badge/Supertest-0A0F18?logo=testinglibrary&logoColor=E33332)
+| ☁️ **cloud / devOps** | 🧠 **data & AI** |
+|:----------------------|:----------------|
+| ![AWS](https://img.shields.io/badge/AWS-0A0F18?logo=amazonaws&logoColor=FF9900) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F18?logo=githubactions&logoColor=2088FF) ![Docker](https://img.shields.io/badge/Docker-0A0F18?logo=docker&logoColor=2496ED) <br> ![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0F18?logo=kubernetes&logoColor=326CE5) ![Terraform](https://img.shields.io/badge/Terraform-0A0F18?logo=terraform&logoColor=7B42BC) ![Ansible](https://img.shields.io/badge/Ansible-0A0F18?logo=ansible&logoColor=EE0000) <br> ![Datadog](https://img.shields.io/badge/Datadog-0A0F18?logo=datadog&logoColor=632CA6) ![CloudWatch](https://img.shields.io/badge/CloudWatch-0A0F18?logo=amazonaws&logoColor=FF9900) | ![Python](https://img.shields.io/badge/Python-0A0F18?logo=python&logoColor=3776AB) ![Snowflake](https://img.shields.io/badge/Snowflake-0A0F18?logo=snowflake&logoColor=29B5E8) ![dbt](https://img.shields.io/badge/dbt-0A0F18?logo=dbt&logoColor=FF694B) ![Airflow](https://img.shields.io/badge/Airflow-0A0F18?logo=apacheairflow&logoColor=017CEE) <br> ![LangChain](https://img.shields.io/badge/LangChain-0A0F18?logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-0A0F18?logo=openai&logoColor=412991) <br>|
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-0A0F18?logo=amazonaws&logoColor=FF9900)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F18?logo=githubactions&logoColor=2088FF)
-![Docker](https://img.shields.io/badge/Docker-0A0F18?logo=docker&logoColor=2496ED)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-0A0F18?logo=opentelemetry&logoColor=F5A623)
 
-}
+| 🧩 **supporting tools** | 🧪 **testing & QA** |
+|:------------------------|:------------------|
+| ![Git](https://img.shields.io/badge/Git-0A0F18?logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0A0F18?logo=github&logoColor=white) ![npm](https://img.shields.io/badge/npm-0A0F18?logo=npm&logoColor=CB3837) ![Yarn](https://img.shields.io/badge/Yarn-0A0F18?logo=yarn&logoColor=2C8EBB) <br> ![Jira](https://img.shields.io/badge/Jira-0A0F18?logo=jira&logoColor=0052CC) ![Markdown](https://img.shields.io/badge/Markdown-0A0F18?logo=markdown&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F18?logo=typescript&logoColor=3178C6) ![Jest](https://img.shields.io/badge/Jest-0A0F18?logo=jest&logoColor=C21325) ![Cypress](https://img.shields.io/badge/Cypress-0A0F18?logo=cypress&logoColor=69D3A7) ![Postman](https://img.shields.io/badge/Postman-0A0F18?logo=postman&logoColor=FF6C37) |
+
+</div>
+
+{
 ---
 
 ## .my-product-engineering-philosophy { 
