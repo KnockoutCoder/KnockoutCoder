@@ -17,7 +17,7 @@
 
 So... I’m an aspiring **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
 
-When I wasn’t doing that, I was leading back-to-back client meetings — training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording.
+When I wasn’t doing that, I was leading back-to-back client meetings - training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording.
 
 <p align="center">
   <img src="officeladysmiling.gif" alt="KC working somehow" width="30%">
