@@ -1,7 +1,10 @@
 # 👋 Hi, I’m Kryscel Czarinah Niñal (KC/Kacey)
 
-💡 *“From Delivering SaaS to Engineering It - finally fixing the features I used to file tickets for.”*  
-🌏 [LinkedIn](https://www.linkedin.com/in/kcninal) | 🧑‍💻 [GitHub](https://github.com/KnockoutCoder)
+<img src="https://raw.githubusercontent.com/KnockoutCoder/KnockoutCoder/main/Github readme banner.png" alt="From Kickoff Decks & QBRs to Deployment Pipelines - finally fixing the features I used to file tickets for." width="100%">
+
+<p align="center">
+  🌏 <a href="https://www.linkedin.com/in/kcninal">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🧑‍💻 <a href="https://github.com/KnockoutCoder">GitHub</a>
+</p>
 
 ---
 
@@ -90,7 +93,7 @@ Because sometimes, the hardest bug to fix is miscommunication.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-0A0F18?logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kcninal)
 [![GitHub](https://img.shields.io/badge/GitHub-KnockoutCoder-0A0F18?logo=github&logoColor=white)](https://github.com/KnockoutCoder)
 
-> ✨ *“I turn chaos into commits - whether it’s a new platform, a new project, or a new programming language I swore I’d never learn.”*
+✨ *“I turn chaos into commits - whether it’s a new platform, a new project, or a new programming language I swore I’d never learn.”*
 
 ---
 
@@ -102,9 +105,13 @@ Because sometimes, the hardest bug to fix is miscommunication.
 
 ## 🥋 Github Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KnockoutCoder&theme=tokyonight&hide_border=true)
-![Kacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnockoutCoder&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin: 10px 0;" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnockoutCoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin: 10px 0;" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KnockoutCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="margin: 10px 0;" />
+</p>
 
 ---
 
