@@ -31,6 +31,10 @@ i like to think of my work as somewhere between product empathy and disciplined 
 
 and just to put it out there - I’m a big fan of the DRY principle. Not just in code, but also in meetings, documentation, and life in general. ◡̈
 
+🚨 pleaaaase feel free to drop me a DM on 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-B497FF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kcninal)
+if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆｡ ˚
+
 }
 ---
 
