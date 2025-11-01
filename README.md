@@ -13,7 +13,7 @@
 
 ---
 
-## 🌙 About Me
+## // About Me
 
 So... I’m an aspiring **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” 😅  
 
@@ -25,7 +25,7 @@ I like to think of my work as somewhere between product empathy and disciplined 
 
 ---
 
-## ⚙️ My Current Tech Stack  
+## // My Current Tech Stack  
 
 ### 🧱 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-0A0F18?logo=html5&logoColor=E34F26)
@@ -58,7 +58,7 @@ I like to think of my work as somewhere between product empathy and disciplined 
 
 ---
 
-## 🧠 What I Build  
+## // What I Build  
 
 - 🏗 **Full-Stack SaaS & Marketplace Apps** - built with MERN/Next.js + GraphQL APIs + AWS deployments  
 - ⚙️ **Automation & Integration Tools** - webhook systems, API orchestration, and internal dashboards  
@@ -67,7 +67,7 @@ I like to think of my work as somewhere between product empathy and disciplined 
 
 ---
 
-## 🧭 My Product-Engineering Philosophy  
+## // My Product-Engineering Philosophy  
 
 - 🎯 **Think like a PM** – define outcomes before architecture, success metrics before syntax.. or you’ll ship the wrong thing beautifully.  
 - ⚙️ **Build like an engineer** – clean, observable, testable code is cheaper than therapy later - and it's how you apologize to your future self. 
@@ -81,7 +81,7 @@ Because sometimes, the hardest bug to fix is miscommunication.
 
 ---
 
-## 🏆 Highlights  
+## // Highlights  
 
 | Category | Focus | Example |
 |-----------|--------|---------|
@@ -93,7 +93,7 @@ Because sometimes, the hardest bug to fix is miscommunication.
 
 ---
 
-## 🌎 Connect With Me  
+## // Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-0A0F18?logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kcninal)
 [![GitHub](https://img.shields.io/badge/GitHub-KnockoutCoder-0A0F18?logo=github&logoColor=white)](https://github.com/KnockoutCoder)
@@ -120,7 +120,7 @@ Because sometimes, the hardest bug to fix is miscommunication.
 
 ---
 
-## 🧠 What I Built  
+## // What I Built  
 
 ### 1. AI-Powered Color & Face Shape Analyzer  
 A web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
@@ -140,7 +140,7 @@ A web app that figures out your **face shape**, **skin undertone**, and **color 
 ### 🚀 Highlights  
 - Reduced API cost by **85%** and response time by **60%** after migrating to Gemini 2.5 Flash:contentReference[oaicite:0]{index=0}  
 - One unified multimodal request handles facial recognition, color analysis, and recommendation generation  
-- Defensive error handling for markdown wrappers, token truncation, and service downtime — because AI APIs *will* misbehave  
+- Defensive error handling for markdown wrappers, token truncation, and service downtime - because AI APIs *will* misbehave  
 - Progressive loading: main analysis first, fashion images stream in later for that “Netflix loading bar” feel  
 
 🧩 *Brings together everything I love - data, design, and human-centered technology.
