@@ -7,20 +7,21 @@
   finally fixing the features I used to file tickets for. ˗ˏˋ☕ˎˊ˗
 </p>
 
----
-
-## .about-me {
-
-<p align="center">
-  <img src="findme.gif" alt="Hi there, I'm Kacey Niñal (~KC)" width="100%">
-</p>
-
 <p align="center">
   ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗ <a href="https://www.linkedin.com/in/kcninal">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; ⁴⁰⁴ <a href="https://github.com/KnockoutCoder">GitHub</a>
 </p>
 
+---
+
+## .about-me {
 
 So... I’m an aspiring **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
+
+When I wasn’t doing that, I was leading back-to-back client meetings — training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording.
+
+<p align="center">
+  <img src="officeladysmiling.gif" alt="KC working somehow" width="30%">
+</p>
 
 Now I'm becoming that engineer I used to chase in Slack - still googling half my fixes, building the very features I used to beg for in JIRA comments, but at least it’s my own code now. 𐔌՞. .՞𐦯  and I'm finally living the life of the engineer on the other side of the ticket, whose reply takes a few deploys, a rollback, and emotional recovery time.
 
