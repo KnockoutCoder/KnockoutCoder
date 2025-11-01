@@ -90,15 +90,21 @@ Because sometimes, the hardest bug to fix is miscommunication.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-0A0F18?logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kcninal)
 [![GitHub](https://img.shields.io/badge/GitHub-KnockoutCoder-0A0F18?logo=github&logoColor=white)](https://github.com/KnockoutCoder)
 
----
-
 > ✨ *“I turn chaos into commits - whether it’s a new platform, a new project, or a new programming language I swore I’d never learn.”*
 
 ---
 
-![Kacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnockoutCoder&show_icons=true&theme=tokyonight&hide_border=true)
+## 👾 Codewars Rank  
+
+<p align="center">
+  <img src="https://www.codewars.com/users/kryscel/badges/large" alt="Codewars Badge">
+</p>
+
+## 🥋 Github Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KnockoutCoder&theme=tokyonight&hide_border=true)
+![Kacey's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnockoutCoder&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
