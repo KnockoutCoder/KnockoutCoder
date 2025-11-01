@@ -136,9 +136,9 @@ Because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 A web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
 > your “AI-powered personal stylist,” but with less judgment and faster response time.
 
-### ✦ Built With  
+#### ✦ Built with--  
 - **Frontend:** HTML5 · CSS3 · Vanilla JavaScript  
-  → Mobile-first, responsive, and optimized with the **Canvas API** for real-time image compression and rendering  
+  > Mobile-first, responsive, and optimized with the **Canvas API** for real-time image compression and rendering  
 - **AI Engine:** **Google Gemini 2.5 Flash** - handles image understanding, facial geometry, color theory, and text generation *in one shot*  
 - **Content Layer:** **Pexels API** - for fetching contextual, high-quality fashion inspiration (no more mannequins from Unsplash 😅)  
 - **Networking & Logic:** Fetch API · Asynchronous orchestration with proper error handling and defensive coding  
@@ -147,7 +147,7 @@ A web app that figures out your **face shape**, **skin undertone**, and **color 
   - Cached DOM references for buttery-smooth UI  
   - Smart fallback logic for API rate limits and JSON repair  
 
-### ✦ Highlights  
+#### ✦ Highlights--  
 - Reduced API cost by **85%** and response time by **60%** after migrating to Gemini 2.5 Flash:contentReference[oaicite:0]{index=0}  
 - One unified multimodal request handles facial recognition, color analysis, and recommendation generation  
 - Defensive error handling for markdown wrappers, token truncation, and service downtime - because AI APIs *will* misbehave  
