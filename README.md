@@ -41,6 +41,10 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 ## .my-current-tech-stack  
 
+<p>
+  <img src="shine.gif" alt="divider line" width="50%">
+</p>
+
 <div align="center">
 
 | 🖥️ **frontend** | ⚙️ **backend** |
