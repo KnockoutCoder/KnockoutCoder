@@ -84,9 +84,9 @@ And just to put it out there - I’m a big fan of the DRY principle. Not just in
   <img src="thinking.gif" alt="KC pretending to think" width="30%">
 </p>
 
-  > - **Think like a PM** - define outcomes before architecture, success metrics before syntax.. or we’ll end up shipping the wrong thing beautifully.  
-  > - **Build like an engineer** - clean, observable, testable code is cheaper than therapy later - and it's also how I apologize to my future self.
-  > - **Communicate like a CSM** - clarity, empathy, and a touch of over-explaining never hurt anyone.. and it actually scales.  
+  > - **think like a product** - define outcomes before architecture, success metrics before syntax.. or we’ll end up shipping the wrong thing beautifully.  
+  > - **build like i'll maintain it** - clean, observable, testable code is cheaper than therapy later - and it's also how I apologize to my future self.
+  > - **communicate like a teammate** - clarity, empathy, and a touch of over-explaining never hurt anyone.. and it actually scales.  
 
 I see engineering as a conversation between design, logic, and people - not just code. 
 It’s about translating “it works on my machine” into “it works for the user.” 
