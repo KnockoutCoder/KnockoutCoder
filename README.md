@@ -15,7 +15,7 @@
 
 ## .about-me {
 
-so... i’m an aspiring **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
+so... i’m an aspiring **product-minded full-stack developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
 
 when I wasn’t doing that, I was leading back-to-back client meetings - training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording.
 
@@ -70,10 +70,10 @@ and just to put it out there - I’m a big fan of the DRY principle. Not just in
 
 ## .what-i-build { 
 
-  **Full-Stack SaaS & Marketplace Apps**: built with MERN/Next.js + GraphQL APIs + AWS deployments;  
-  **Automation & Integration Tools**: webhook systems, API orchestration, and internal dashboards;  
-  **Data-Driven Frontends**: SSR/ISR dashboards and admin tools for operators & sellers;  
-  **Reliable Backends**: instrumented with logging, tracing, and retry logic;  
+  **full-stack SaaS & marketplace apps**: built with MERN/Next.js + GraphQL APIs + AWS deployments;  
+  **automation & integration tools**: webhook systems, API orchestration, and internal dashboards;  
+  **data-driven frontends**: SSR/ISR dashboards and admin tools for operators & sellers;  
+  **reliable backends**: instrumented with logging, tracing, and retry logic;  
 
 }
 ---
@@ -132,29 +132,29 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 
 ## .what-i-built {
 
-### 1. AI-Powered Color & Face Shape Analyzer  
-A web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
+### 1. AI-powered color & face shape analyzer  
+a web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
 > your “AI-powered personal stylist,” but with less judgment and faster response time.
 
-#### ✦ Built with--  
-- **Frontend:** HTML5 · CSS3 · Vanilla JavaScript  
-  > Mobile-first, responsive, and optimized with the **Canvas API** for real-time image compression and rendering  
-- **AI Engine:** **Google Gemini 2.5 Flash** - handles image understanding, facial geometry, color theory, and text generation *in one shot*  
-- **Content Layer:** **Pexels API** - for fetching contextual, high-quality fashion inspiration (no more mannequins from Unsplash 😅)  
-- **Networking & Logic:** Fetch API · Asynchronous orchestration with proper error handling and defensive coding  
-- **Performance Optimizations:**  
+#### ✦ built with--  
+- **frontend:** HTML5 · CSS3 · Vanilla JavaScript  
+  > mobile-first, responsive, and optimized with the **Canvas API** for real-time image compression and rendering  
+- **AI engine:** **Google Gemini 2.5 Flash** - handles image understanding, facial geometry, color theory, and text generation *in one shot*  
+- **content Layer:** **Pexels API** - for fetching contextual, high-quality fashion inspiration (no more mannequins from Unsplash 😅)  
+- **networking & Logic:** Fetch API · Asynchronous orchestration with proper error handling and defensive coding  
+- **performance Optimizations:**  
   - Image compression (≈90% smaller) via `canvas.toDataURL('image/jpeg', 0.2)`  
   - Cached DOM references for buttery-smooth UI  
   - Smart fallback logic for API rate limits and JSON repair  
 
-#### ✦ Highlights--  
-- Reduced API cost by **85%** and response time by **60%** after migrating to Gemini 2.5 Flash:contentReference[oaicite:0]{index=0}  
-- One unified multimodal request handles facial recognition, color analysis, and recommendation generation  
-- Defensive error handling for markdown wrappers, token truncation, and service downtime - because AI APIs *will* misbehave  
-- Progressive loading: main analysis first, fashion images stream in later for that “Netflix loading bar” feel  
+#### ✦ highlights--  
+- reduced API cost by **85%** and response time by **60%** after migrating to Gemini 2.5 Flash:contentReference[oaicite:0]{index=0}  
+- one unified multimodal request handles facial recognition, color analysis, and recommendation generation  
+- defensive error handling for markdown wrappers, token truncation, and service downtime - because AI APIs *will* misbehave  
+- progressive loading: main analysis first, fashion images stream in later for that “Netflix loading bar” feel  
 
-🧩 *Brings together everything I love - data, design, and human-centered technology.
-Also, it finally justifies the hours I’ve spent color-matching code editors to my desktop wallpaper.*
+🧩 *brings together everything I love - data, design, and human-centered technology.
+also, it finally justifies the hours I’ve spent color-matching code editors to my desktop wallpaper.*
 
 ### 2. (coming soon)
 
