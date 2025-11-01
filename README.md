@@ -13,9 +13,9 @@
 
 ---
 
-## .about-me {
+## .about-me
 
-so... i’m an aspiring **product-minded full-stack developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
+{ so... i’m an aspiring **product-minded full-stack developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
 
 when I wasn’t doing that, I was leading back-to-back client meetings - training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording.
 
@@ -33,15 +33,13 @@ and just to put it out there - I’m a big fan of the DRY principle. Not just in
 
 🚨 pleaaaase feel free to drop me a DM on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-B497FF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kcninal)
-if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆｡ ˚
+if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆｡ ˚ }
 
-}
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
 
-## .my-current-tech-stack { 
-
+## .my-current-tech-stack  
 
 <div align="center">
 
@@ -61,10 +59,11 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-{
----
+<p>
+  <img src="scribble.gif" alt="divider line" width="50%">
+</p>
 
-## .my-product-engineering-philosophy { 
+## .my-product-engineering-philosophy 
 
 <p align="center">
   <img src="thinking.gif" alt="KC pretending to think" width="30%">
@@ -80,21 +79,23 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 
 <p align="center"><em>// commit: documented my existential coding beliefs</em></p>
 
-}
----
+<p>
+  <img src="scribble.gif" alt="divider line" width="50%">
+</p>
 <details>
-<summary><h2>.what-i-build {</h2></summary>
+<summary><h2>.what-i-build </h2></summary>
 
-  **full-stack SaaS & marketplace apps**: built with MERN/Next.js + GraphQL APIs + AWS deployments;  
-  **automation & integration tools**: webhook systems, API orchestration, and internal dashboards;  
-  **data-driven frontends**: SSR/ISR dashboards and admin tools for operators & sellers;  
-  **reliable backends**: instrumented with logging, tracing, and retry logic;  
+  - **full-stack SaaS & marketplace apps**: built with MERN/Next.js + GraphQL APIs + AWS deployments;  
+  - **automation & integration tools**: webhook systems, API orchestration, and internal dashboards;  
+  - **data-driven frontends**: SSR/ISR dashboards and admin tools for operators & sellers;  
+  - **reliable backends**: instrumented with logging, tracing, and retry logic;  
 
-}
----
+<p>
+  <img src="scribble.gif" alt="divider line" width="50%">
+</p>
 </details>
 <details>
-<summary><h2>.highlights {</h2></summary> 
+<summary><h2>.highlights</h2></summary> 
 
 | Category | Focus | Example |
 |-----------|--------|---------|
@@ -104,20 +105,20 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 | **Cloud** | AWS + CI/CD | Automated deployments, CloudWatch logging |
 | **Reliability** | Webhooks + Observability | Idempotent event handling & alerts |
 
-}
----
+<p>
+  <img src="scribble.gif" alt="divider line" width="50%">
+</p>
 </details>
 <details>
-<summary><h2>.codewars-rank {</h2></summary>   
+<summary><h2>.codewars-rank</h2></summary>   
 
 <p align="center">
   <img src="https://www.codewars.com/users/kryscel/badges/large" alt="Codewars Badge">
 </p>
 
-}
 </details>
 <details>
-<summary><h2>.github-stats {</h2></summary>
+<summary><h2>.github-stats</h2></summary>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin: 10px 0;" />
@@ -126,12 +127,12 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=KnockoutCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="margin: 10px 0;" />
 </p>
-
-}
----
+<p>
+  <img src="scribble.gif" alt="divider line" width="50%">
+</p>
 </details>
 <details>
-<summary><h2>.what-i've-built {</h2></summary>
+<summary><h2>.what-i've-built</h2></summary>
 
 ### 1. AI-powered color & face shape analyzer  
 a web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
@@ -158,6 +159,4 @@ a web app that figures out your **face shape**, **skin undertone**, and **color 
 also, it finally justifies the hours I’ve spent color-matching code editors to my desktop wallpaper.*
 
 ### 2. (coming soon)
-
-}
 </details>
