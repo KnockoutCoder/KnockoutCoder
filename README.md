@@ -42,7 +42,7 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ## .my-current-tech-stack  
 
 <p>
-  <img src="shine.gif" alt="divider line" width="50%">
+  <img src="shine.gif" alt="divider line" width="100%">
 </p>
 
 <div align="center">
@@ -62,6 +62,10 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 | ![Git](https://img.shields.io/badge/Git-0A0F18?logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0A0F18?logo=github&logoColor=white) ![npm](https://img.shields.io/badge/npm-0A0F18?logo=npm&logoColor=CB3837) ![Yarn](https://img.shields.io/badge/Yarn-0A0F18?logo=yarn&logoColor=2C8EBB) <br> ![Jira](https://img.shields.io/badge/Jira-0A0F18?logo=jira&logoColor=0052CC) ![Markdown](https://img.shields.io/badge/Markdown-0A0F18?logo=markdown&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F18?logo=typescript&logoColor=3178C6) ![Jest](https://img.shields.io/badge/Jest-0A0F18?logo=jest&logoColor=C21325) ![Cypress](https://img.shields.io/badge/Cypress-0A0F18?logo=cypress&logoColor=69D3A7) ![Postman](https://img.shields.io/badge/Postman-0A0F18?logo=postman&logoColor=FF6C37) |
 
 </div>
+<p>
+  <img src="shine.gif" alt="divider line" width="100%">
+</p>
+
 
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
