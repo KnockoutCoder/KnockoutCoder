@@ -37,6 +37,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 }
 ---
+<p align="center">
+  <img src="funnytech" alt="Funny old lady taking photo the wrong way" width="100%">
+</p>
 
 ## .my-current-tech-stack { 
 
