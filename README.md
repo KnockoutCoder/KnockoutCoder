@@ -1,6 +1,11 @@
-# 👋 Hi, I’m Kryscel Czarinah Niñal (KC/Kacey)
+<p align="center">
+  <img src="banner.gif" alt="Hi there, I'm Kacey Niñal (~KC)" width="100%">
+</p>
 
-<img src="https://raw.githubusercontent.com/KnockoutCoder/KnockoutCoder/main/Github readme banner.png" alt="From Kickoff Decks & QBRs to Deployment Pipelines - finally fixing the features I used to file tickets for." width="100%">
+<p align="center" style="font-size:20px; font-weight:600; max-width: 800px;">
+  From <strong>Kickoff Decks & QBRs</strong> to <strong>Deployment Pipelines</strong> -  
+  finally fixing the features I used to file tickets for. 🚀
+</p>
 
 <p align="center">
   🌏 <a href="https://www.linkedin.com/in/kcninal">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; 🧑‍💻 <a href="https://github.com/KnockoutCoder">GitHub</a>
