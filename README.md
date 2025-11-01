@@ -7,13 +7,18 @@
   finally fixing the features I used to file tickets for. ˗ˏˋ☕ˎˊ˗
 </p>
 
+---
+
+## .about-me {
+
+<p align="center">
+  <img src="findme.gif" alt="Hi there, I'm Kacey Niñal (~KC)" width="100%">
+</p>
+
 <p align="center">
   ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗ <a href="https://www.linkedin.com/in/kcninal">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; ⁴⁰⁴ <a href="https://github.com/KnockoutCoder">GitHub</a>
 </p>
 
----
-
-## .about-me {
 
 So... I’m an aspiring **Product-Minded Full-Stack Developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
 
@@ -75,7 +80,7 @@ And just to put it out there - I’m a big fan of the DRY principle. Not just in
 ## .my-product-engineering-philosophy { 
 
   >**Think like a PM** – define outcomes before architecture, success metrics before syntax.. or you’ll ship the wrong thing beautifully.  
-  >**Build like an engineer** – clean, observable, testable code is cheaper than therapy later - and it's how you apologize to your future self. 
+  >**Build like an engineer** – clean, observable, testable code is cheaper than therapy later - and it's how you apologize to your future self.
   >**Communicate like a CSM** – clarity, empathy, and a touch of over-explaining never hurt anyone.. and it actually scales.  
 
 I see engineering as a conversation between design, logic, and people - not just code. 
