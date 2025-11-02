@@ -95,33 +95,6 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
 <details>
-<summary><h2>.what-i-build </h2></summary>
-
-  - **full-stack SaaS & marketplace apps**: built with MERN/Next.js + GraphQL APIs + AWS deployments;  
-  - **automation & integration tools**: webhook systems, API orchestration, and internal dashboards;  
-  - **data-driven frontends**: SSR/ISR dashboards and admin tools for operators & sellers;  
-  - **reliable backends**: instrumented with logging, tracing, and retry logic;  
-
-<p>
-  <img src="scribble.gif" alt="divider line" width="50%">
-</p>
-</details>
-<details>
-<summary><h2>.highlights</h2></summary> 
-
-| Category | Focus | Example |
-|-----------|--------|---------|
-| **Frontend** | React + Next.js | SSR dashboards & reusable UI systems |
-| **Backend** | Node + Express + GraphQL | Scalable APIs for marketplace operations |
-| **Database** | MongoDB + PostgreSQL + Prisma | Flexible catalogs & transactional systems |
-| **Cloud** | AWS + CI/CD | Automated deployments, CloudWatch logging |
-| **Reliability** | Webhooks + Observability | Idempotent event handling & alerts |
-
-<p>
-  <img src="scribble.gif" alt="divider line" width="50%">
-</p>
-</details>
-<details>
 <summary><h2>.codewars-rank</h2></summary>   
 
 <p align="center">
