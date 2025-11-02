@@ -13,6 +13,10 @@
 
 ---
 
+<p align=center">
+  <img src="101line.png" alt="divider line" width="100%">
+</p>
+
 ## .about-me
 
 { so... i’m an aspiring **product-minded full-stack developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
