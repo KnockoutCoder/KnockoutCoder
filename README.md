@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Hi there, I'm Kacey Niñal (~KC)" width="100%">
+  <img src="banner(1).gif" alt="Hi there, I'm Kacey Niñal (~KC)" width="100%">
 </p>
 
 <p align="center" style="font-size:20px; font-weight:600; max-width: 800px;"><em>
