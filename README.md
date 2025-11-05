@@ -17,7 +17,7 @@
   <img src="101line.png" alt="divider line" width="100%">
 </p>
 
-## .about-me
+## .me
 
 { so... i’m an aspiring **product-minded full-stack developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
 
@@ -43,7 +43,7 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
 
-## .my-current-tech-stack  
+## .stack  
 
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
@@ -51,31 +51,54 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 <div align="center">
 
-| 🖥️ **frontend** | ⚙️ **backend** |
-|:----------------|:---------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-0A0F18?logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0A0F18?logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F18?logo=javascript&logoColor=F7DF1E) <br> ![React](https://img.shields.io/badge/React-0A0F18?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0A0F18?logo=nextdotjs&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-0A0F18?logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-0A0F18?logo=express&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-0A0F18?logo=graphql&logoColor=E10098) ![Apollo](https://img.shields.io/badge/Apollo-0A0F18?logo=apollographql&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-0A0F18?logo=mongodb&logoColor=47A248) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F18?logo=postgresql&logoColor=336791) ![Prisma](https://img.shields.io/badge/Prisma-0A0F18?logo=prisma&logoColor=2D3748)|
+| 🖥️ **Frontend** | ⚙️ **Backend & DevOps** |
+|:-----------------|:------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-0A0F18?logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0A0F18?logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F18?logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F18?logo=typescript&logoColor=3178C6) <br> ![React](https://img.shields.io/badge/React-0A0F18?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0A0F18?logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0F18?logo=tailwindcss&logoColor=38B2AC) ![Radix UI](https://img.shields.io/badge/Radix_UI-0A0F18?logo=radixui&logoColor=E2E8F0) <br> ![MUI](https://img.shields.io/badge/MUI-0A0F18?logo=mui&logoColor=007FFF) ![Vite](https://img.shields.io/badge/Vite-0A0F18?logo=vite&logoColor=646CFF) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-0A0F18?logo=testinglibrary&logoColor=E33332) | ![Node.js](https://img.shields.io/badge/Node.js-0A0F18?logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-0A0F18?logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0A0F18?logo=prisma&logoColor=2D3748) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F18?logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-0A0F18?logo=mongodb&logoColor=47A248) ![GraphQL](https://img.shields.io/badge/GraphQL-0A0F18?logo=graphql&logoColor=E10098) <br> ![Jest](https://img.shields.io/badge/Jest-0A0F18?logo=jest&logoColor=C21325) ![Vitest](https://img.shields.io/badge/Vitest-0A0F18?logo=vitest&logoColor=729B1B) ![Supertest](https://img.shields.io/badge/Supertest-0A0F18?logo=mocha&logoColor=8D6748) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F18?logo=githubactions&logoColor=2088FF) <br> ![Docker](https://img.shields.io/badge/Docker-0A0F18?logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/AWS-0A0F18?logo=amazonaws&logoColor=FF9900) |
+
+</div>
+
+<div align="center">
+
+### 🧪 Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-0A0F18?logo=jest&logoColor=C21325)
+![Vitest](https://img.shields.io/badge/Vitest-0A0F18?logo=vitest&logoColor=729B1B)
+![Supertest](https://img.shields.io/badge/Supertest-0A0F18?logo=mocha&logoColor=8D6748)
+![ESLint](https://img.shields.io/badge/ESLint-0A0F18?logo=eslint&logoColor=4B32C3)
+![Prettier](https://img.shields.io/badge/Prettier-0A0F18?logo=prettier&logoColor=F7B93E)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-0A0F18?logo=githubactions&logoColor=2088FF)
 
 
-| ☁️ **cloud / devOps** | 🧠 **data & AI** |
-|:----------------------|:----------------|
-| ![AWS](https://img.shields.io/badge/AWS-0A0F18?logo=amazonaws&logoColor=FF9900) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F18?logo=githubactions&logoColor=2088FF) ![Docker](https://img.shields.io/badge/Docker-0A0F18?logo=docker&logoColor=2496ED) <br> ![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0F18?logo=kubernetes&logoColor=326CE5) ![Terraform](https://img.shields.io/badge/Terraform-0A0F18?logo=terraform&logoColor=7B42BC) ![Ansible](https://img.shields.io/badge/Ansible-0A0F18?logo=ansible&logoColor=EE0000) <br> ![Datadog](https://img.shields.io/badge/Datadog-0A0F18?logo=datadog&logoColor=632CA6) ![CloudWatch](https://img.shields.io/badge/CloudWatch-0A0F18?logo=amazonaws&logoColor=FF9900) | ![Python](https://img.shields.io/badge/Python-0A0F18?logo=python&logoColor=3776AB) ![Snowflake](https://img.shields.io/badge/Snowflake-0A0F18?logo=snowflake&logoColor=29B5E8) ![dbt](https://img.shields.io/badge/dbt-0A0F18?logo=dbt&logoColor=FF694B) ![Airflow](https://img.shields.io/badge/Airflow-0A0F18?logo=apacheairflow&logoColor=017CEE) <br> ![LangChain](https://img.shields.io/badge/LangChain-0A0F18?logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-0A0F18?logo=openai&logoColor=412991) <br>|
+### 🧰 Tooling & Collaboration
+![Git](https://img.shields.io/badge/Git-0A0F18?logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0A0F18?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0A0F18?logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-0A0F18?logo=figma&logoColor=F24E1E)
+![Notion](https://img.shields.io/badge/Notion-0A0F18?logo=notion&logoColor=FFFFFF)
+![Confluence](https://img.shields.io/badge/Confluence-0A0F18?logo=confluence&logoColor=172B4D)
+![Jira](https://img.shields.io/badge/Jira-0A0F18?logo=jira&logoColor=0052CC)
 
+</div>
 
-| 🧩 **supporting tools** | 🧪 **testing & QA** |
-|:------------------------|:------------------|
-| ![Git](https://img.shields.io/badge/Git-0A0F18?logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0A0F18?logo=github&logoColor=white) ![npm](https://img.shields.io/badge/npm-0A0F18?logo=npm&logoColor=CB3837) ![Yarn](https://img.shields.io/badge/Yarn-0A0F18?logo=yarn&logoColor=2C8EBB) <br> ![Jira](https://img.shields.io/badge/Jira-0A0F18?logo=jira&logoColor=0052CC) ![Markdown](https://img.shields.io/badge/Markdown-0A0F18?logo=markdown&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F18?logo=typescript&logoColor=3178C6) ![Jest](https://img.shields.io/badge/Jest-0A0F18?logo=jest&logoColor=C21325) ![Cypress](https://img.shields.io/badge/Cypress-0A0F18?logo=cypress&logoColor=69D3A7) ![Postman](https://img.shields.io/badge/Postman-0A0F18?logo=postman&logoColor=FF6C37) |
+#### currently exploring  .. 
+<p>cloud infrastructure, observability, and data engineering pipelines</p>
+<p>to strengthen system scalability and analytics insight .. </p>
+<br></br>
+<div align="center">
+
+| ☁️ **Cloud & Infrastructure** | 🧮 **Data & AI Engineering** |
+|:------------------------------|:-----------------------------|
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0F18?logo=kubernetes&logoColor=326CE5) ![Terraform](https://img.shields.io/badge/Terraform-0A0F18?logo=terraform&logoColor=7B42BC) ![Ansible](https://img.shields.io/badge/Ansible-0A0F18?logo=ansible&logoColor=EE0000) <br> ![Datadog](https://img.shields.io/badge/Datadog-0A0F18?logo=datadog&logoColor=632CA6) ![CloudWatch](https://img.shields.io/badge/CloudWatch-0A0F18?logo=amazonaws&logoColor=FF9900) | ![Python](https://img.shields.io/badge/Python-0A0F18?logo=python&logoColor=3776AB) ![Snowflake](https://img.shields.io/badge/Snowflake-0A0F18?logo=snowflake&logoColor=29B5E8) ![dbt](https://img.shields.io/badge/dbt-0A0F18?logo=dbt&logoColor=FF694B) ![Airflow](https://img.shields.io/badge/Airflow-0A0F18?logo=apacheairflow&logoColor=017CEE) <br> ![LangChain](https://img.shields.io/badge/LangChain-0A0F18?logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-0A0F18?logo=openai&logoColor=412991) |
 
 </div>
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
 </p>
 
-
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
 
-## .my-product-engineering-philosophy 
+## .philosophy 
 
 <p align="center">
   <img src="thinking.gif" alt="KC pretending to think" width="30%">
@@ -117,7 +140,7 @@ because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
 </p>
 </details>
 <details>
-<summary><h2>.what-i've-built</h2></summary>
+<summary><h2>.projects</h2></summary>
 
 ### 1. AI-powered color & face shape analyzer  
 a web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
