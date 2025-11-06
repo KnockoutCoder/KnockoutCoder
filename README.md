@@ -70,6 +70,12 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 <div align="center">
 
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+
+<sup>_***familiar with large Ruby on Rails monoliths (Majestic Monolith architecture) and their GraphQL API layers - comfortable reading controllers, models, and data flows to understand domain behavior_</sup>
+
+<div align="center">
+
 ### Data & Persistence  
 **Databases & ORM:**  
 
