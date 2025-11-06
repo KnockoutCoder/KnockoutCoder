@@ -199,6 +199,9 @@ also, it finally justifies the hours I’ve spent color-matching code editors to
 
 ### 2. (coming soon)
 </details>
+<p>
+  <img src="scribble.gif" alt="divider line" width="50%">
+</p>
 <summary><h2>.codewars</h2></summary>   
 
 <p align="center">
@@ -213,8 +216,5 @@ also, it finally justifies the hours I’ve spent color-matching code editors to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnockoutCoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin: 10px 0;" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=KnockoutCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="margin: 10px 0;" />
-</p>
-<p>
-  <img src="scribble.gif" alt="divider line" width="50%">
 </p>
 
