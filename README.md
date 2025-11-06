@@ -55,7 +55,7 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 </p>
 
 ## .stack, .systems, .philosophy  
-> _bulding systems that are dependable, thoughtful, and **made to last** is important to me._
+_bulding systems that are dependable, thoughtful, and **made to last** is important to me._
 
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
@@ -73,19 +73,13 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-</div>
-
 > _i build applications that balance structure and simplicity._  
 > _most of what I build is centered on predictable, maintainable design - code that’s easy for others to read, extend, and trust._  
 > _i enjoy working across the stack and finding the small architectural decisions that make large systems feel intuitive._
 
-<div align="center">
-
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 <sup>_***familiar with large Ruby on Rails monoliths (Majestic Monolith architecture) and their GraphQL API layers - comfortable reading controllers, models, and data flows to understand domain behavior_</sup>
-
-<div align="center">
 
 ### Data & Persistence  
 **Databases & ORM:**  
@@ -94,13 +88,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-</div>
-
 > _i try to design data models that reflect real-world logic as much as business rules._  
 > _for me, a good schema makes collaboration easier - when data makes sense, conversations do too._  
 > _i believe that clarity in data design quietly supports every feature that depends on it._
-
-<div align="center">
 
 ### Reliability & Testing  
 **Tools:**  
@@ -111,13 +101,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ![Supertest](https://img.shields.io/badge/Supertest-373737?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-</div>
-
 > _i set up tests and pipelines to make progress steady and dependable._  
 > _testing is something I enjoy because it helps the team move quickly without fear of regression._  
 > _my focus is on small, consistent safeguards that build trust over time._
-
-<div align="center">
 
 ### Infrastructure & Deployment  
 **Tools:**  
@@ -128,13 +114,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B45B3?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) <sup>(learning)</sup>
 
-</div>
-
 > _working with infrastructure keeps me close to how code actually lives in production._  
 > _i like the rhythm of building, deploying, and observing how systems behave in real environments._  
 > _my goal is to make deployment and maintenance feel calm and repeatable - not a source of anxiety._
-
-<div align="center">
 
 ### Observability & System Health  
 **Tools:**  
@@ -144,13 +126,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 <br>
 ![OpenTelemetry](https://img.shields.io/badge/Tracing-OpenTelemetry-FF6900?style=flat-square&logo=opentelemetry&logoColor=white) <sup>(learning)</sup>
 
-</div>
-
 > _for me, understanding performance and behavior early helps prevent noise later._  
 > _i enjoy integrating visibility into systems - logging, metrics, tracing - so issues surface clearly and recovery is faster._  
 > _there’s a quiet satisfaction in seeing a system tell you what it needs before something breaks._
-
-<div align="center">
 
 ### Data & Intelligence (Exploring)  
 **Tools:**  
@@ -162,13 +140,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ![LangChain](https://img.shields.io/badge/AI/ML-LangChain-229954?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-</div>
-
 > _i’m drawn to how data and automation can help products make smarter decisions._  
 > _i’ve been exploring modern data pipelines and AI integration to understand how insights can flow naturally into the product experience._  
 > _my focus is on connecting information to impact - both for teams and users._
-
-<div align="center">
 
 ### Collaboration & Delivery  
 **Tools:**  
@@ -181,8 +155,6 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ![Notion](https://img.shields.io/badge/Docs-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-</div>
-
 > _i like when documentation and delivery feel seamless with development._  
 > _i keep my work visible and well-documented so others can build on it easily._  
 > _for me, communication is a kind of infrastructure - it keeps everything running smoothly._
@@ -191,36 +163,15 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
   <img src="shine.gif" alt="divider line" width="100%">
 </p>
 
-> _tl;dr: i care about systems that age well - in their design, their data, and in how people work with them every day._
+</div>
+
+_tl;dr: i care about systems that age well - in their design, their data, and in how people work with them every day._
 
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
-
 <details>
-<summary><h2>.codewars-rank</h2></summary>   
-
-<p align="center">
-  <img src="https://www.codewars.com/users/kryscel/badges/large" alt="Codewars Badge">
-</p>
-
-</details>
-<details>
-<summary><h2>.github-stats</h2></summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin: 10px 0;" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnockoutCoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin: 10px 0;" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KnockoutCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="margin: 10px 0;" />
-</p>
-<p>
-  <img src="scribble.gif" alt="divider line" width="50%">
-</p>
-</details>
-<details>
-<summary><h2>.projects</h2></summary>
+<summary><h2>.projects<sup> (click me)</sup></h2></summary>
 
 ### 1. AI-powered color & face shape analyzer  
 a web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
@@ -248,3 +199,22 @@ also, it finally justifies the hours I’ve spent color-matching code editors to
 
 ### 2. (coming soon)
 </details>
+<summary><h2>.codewars</h2></summary>   
+
+<p align="center">
+  <img src="https://www.codewars.com/users/kryscel/badges/large" alt="Codewars Badge">
+</p>
+
+<summary><h2>.github-stats</h2></summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin: 10px 0;" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnockoutCoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="margin: 10px 0;" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KnockoutCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" style="margin: 10px 0;" />
+</p>
+<p>
+  <img src="scribble.gif" alt="divider line" width="50%">
+</p>
+
