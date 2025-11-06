@@ -40,13 +40,10 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 
 ---
+<br>
+<h2>stack/systems/philosophy</h2>  
 
-<p>
-  <img src="scribble.gif" alt="divider line" width="50%">
-</p>
-
-## .stack, .systems, .philosophy  
-_bulding systems that are dependable, thoughtful, and **made to last** is important to me._
+> _bulding systems that are dependable, thoughtful, and **made to last** is important to me._
 
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
@@ -162,7 +159,7 @@ _tl;dr: i care about systems that age well - in their design, their data, and in
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
 <details>
-<summary><h2>.projects<sup> (click me)</sup></h2></summary>
+<summary><h2>projects<sup> (click me)</sup></h2></summary>
 
 ### 1. AI-powered color & face shape analyzer  
 a web app that figures out your **face shape**, **skin undertone**, and **color season** - then pairs it with **fashion and makeup recommendations** that actually make sense.  
@@ -190,17 +187,14 @@ also, it finally justifies the hours I’ve spent color-matching code editors to
 
 ### 2. (coming soon)
 </details>
-<p>
-  <img src="scribble.gif" alt="divider line" width="50%">
-</p>
 
-## .codewars
+## codewars
 
 <p align="center">
   <img src="https://www.codewars.com/users/kryscel/badges/large" alt="Codewars Badge">
 </p>
 
-## .github-stats
+## github-stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin: 10px 0;" />
