@@ -3,6 +3,9 @@
 </p>
 
 <p align="center" style="font-size:20px; font-weight:600; max-width: 800px;"><em>
+  <strong>ex–Customer Success & Service Delivery Manager → Full-Stack Product Developer</strong></em>
+</p>
+<p align="center" style="font-size:20px; font-weight:600; max-width: 800px;"><em>
   ✨ from <strong>kickoff decks & QBRs</strong> to <strong>deployment pipelines</strong> -  
   finally fixing the features I used to file tickets for ˗ˏˋ☕ˎˊ˗</em>
 </p>
@@ -19,32 +22,40 @@
 
 ## .me
 
-{ so... i’m an aspiring **product-minded full-stack developer** who started on the other side of the ticket queue - writing docs, filing bugs, and convincing engineers to “just add a quick filter.” ◡̈
-
-when I wasn’t doing that, I was leading back-to-back client meetings - training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording.
+i started on the other side of the ticket queue - leading back-to-back client meetings, training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording. 
 
 <p align="center">
   <img src="officeladysmiling.gif" alt="KC working somehow" width="30%">
 </p>
 
-now I'm becoming that engineer I used to chase in Slack - still googling half my fixes, building the very features I used to beg for in JIRA comments, but at least it’s my own code now. 𐔌՞. .՞𐦯  and I'm finally living the life of the engineer on the other side of the ticket, whose reply takes a few deploys, a rollback, and emotional recovery time.
+after years helping SaaS teams and marketplaces ship big, messy launches, I swapped onboarding checklists, delivery decks, and QBR meetings for designing, refactoring, and re-imagining systems - helping build the very platforms I once helped businesses grow on.
 
-after years helping SaaS teams and marketplaces ship big, messy launches, I swapped onboarding checklists, delivery decks, and QBR meetings for code reviews - helping build the very platforms I once helped businesses grow on.
+now that I've become the engineer I used to chase in Slack, i care about the small, intentional choices that make products feel human - the kind that turn predictability into confidence and usability into trust.
 
-i like to think of my work as somewhere between product empathy and disciplined engineering - building tools that respect both the roadmap and the humans behind it, because the best systems scale only when the people using them do too.
+working with business users - from small teams to large-scale enterprises - has taught me how small decisions ripple: how a setting’s behavior can shape business logic, how a page’s load time can affect trust, and how missing guidance can quietly slow someone’s day. 
 
-and just to put it out there - I’m a big fan of the DRY principle. Not just in code, but also in meetings, documentation, and life in general. ◡̈
+over time, I’ve seen how these moments - good or bad - compound into something larger: the kind of experience that earns **renewal**, or the kind that quietly drives **churn**.
+
+the harsh reality is that most users never see the complexity of systems at scale - or the effort it takes to keep them from crashing - but they **FEEL** when a product cares about helping them reduce overhead, drive sales, or simply win a few hours back in their day.
+<br></br>
+**i build with that in mind**. 
+<br></br>
+my focus is on systems that are calm under pressure, transparent in behavior, and kind to those who rely on them. i like when design and engineering meet halfway - when a schema, a test, or a log line reflects thoughtfulness, not just functionality.
+
+my background in customer success and delivery keeps me grounded in outcomes. 
+
+it has given me a front-row view of how differently organizations think and reminds me that the _good engineering is quiet confidence - seen not in how much it does, but in how well it **endures**._
 
 🚨 pleaaaase feel free to drop me a DM on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-B497FF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kcninal)
-if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆｡ ˚ }
+if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆｡ ˚ 
 
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
 
 ## .stack, .systems, .philosophy  
-> _i build systems that are dependable, thoughtful, and made to last._
+> _bulding systems that are dependable, thoughtful, and **made to last** is important to me._
 
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
