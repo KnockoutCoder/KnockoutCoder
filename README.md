@@ -44,7 +44,7 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 </p>
 
 ## .stack, .systems, .philosophy  
-> _I build systems that are dependable, thoughtful, and made to last._
+> _i build systems that are dependable, thoughtful, and made to last._
 
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
@@ -64,9 +64,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-> _I build applications that balance structure and simplicity._  
-> _Most of what I build is centered on predictable, maintainable design - code that’s easy for others to read, extend, and trust._  
-> _I enjoy working across the stack and finding the small architectural decisions that make large systems feel intuitive._
+> _i build applications that balance structure and simplicity._  
+> _most of what I build is centered on predictable, maintainable design - code that’s easy for others to read, extend, and trust._  
+> _i enjoy working across the stack and finding the small architectural decisions that make large systems feel intuitive._
 
 <div align="center">
 
@@ -79,9 +79,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-> _I try to design data models that reflect real-world logic as much as business rules._  
-> _For me, a good schema makes collaboration easier - when data makes sense, conversations do too._  
-> _I believe that clarity in data design quietly supports every feature that depends on it._
+> _i try to design data models that reflect real-world logic as much as business rules._  
+> _for me, a good schema makes collaboration easier - when data makes sense, conversations do too._  
+> _i believe that clarity in data design quietly supports every feature that depends on it._
 
 <div align="center">
 
@@ -96,9 +96,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-> _I set up tests and pipelines to make progress steady and dependable._  
-> _Testing is something I enjoy because it helps the team move quickly without fear of regression._  
-> _My focus is on small, consistent safeguards that build trust over time._
+> _i set up tests and pipelines to make progress steady and dependable._  
+> _testing is something I enjoy because it helps the team move quickly without fear of regression._  
+> _my focus is on small, consistent safeguards that build trust over time._
 
 <div align="center">
 
@@ -113,9 +113,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-> _Working with infrastructure keeps me close to how code actually lives in production._  
-> _I like the rhythm of building, deploying, and observing how systems behave in real environments._  
-> _My goal is to make deployment and maintenance feel calm and repeatable — not a source of anxiety._
+> _working with infrastructure keeps me close to how code actually lives in production._  
+> _i like the rhythm of building, deploying, and observing how systems behave in real environments._  
+> _my goal is to make deployment and maintenance feel calm and repeatable - not a source of anxiety._
 
 <div align="center">
 
@@ -129,9 +129,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-> _For me, understanding performance and behavior early helps prevent noise later._  
-> _I enjoy integrating visibility into systems - logging, metrics, tracing — so issues surface clearly and recovery is faster._  
-> _There’s a quiet satisfaction in seeing a system tell you what it needs before something breaks._
+> _for me, understanding performance and behavior early helps prevent noise later._  
+> _i enjoy integrating visibility into systems - logging, metrics, tracing - so issues surface clearly and recovery is faster._  
+> _there’s a quiet satisfaction in seeing a system tell you what it needs before something breaks._
 
 <div align="center">
 
@@ -147,9 +147,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-> _I’m drawn to how data and automation can help products make smarter decisions._  
-> _I’ve been exploring modern data pipelines and AI integration to understand how insights can flow naturally into the product experience._  
-> _My focus is on connecting information to impact - both for teams and users._
+> _i’m drawn to how data and automation can help products make smarter decisions._  
+> _i’ve been exploring modern data pipelines and AI integration to understand how insights can flow naturally into the product experience._  
+> _my focus is on connecting information to impact - both for teams and users._
 
 <div align="center">
 
@@ -166,15 +166,15 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-> _I like when documentation and delivery feel seamless with development._  
-> _I keep my work visible and well-documented so others can build on it easily._  
-> _For me, communication is a kind of infrastructure — it keeps everything running smoothly._
+> _i like when documentation and delivery feel seamless with development._  
+> _i keep my work visible and well-documented so others can build on it easily._  
+> _for me, communication is a kind of infrastructure - it keeps everything running smoothly._
 
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
 </p>
 
-> _TL;DR: I care about systems that age well - in their design, their data, and in how people work with them every day._
+> _tl;dr: i care about systems that age well - in their design, their data, and in how people work with them every day._
 
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
