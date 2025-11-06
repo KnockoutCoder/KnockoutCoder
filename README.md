@@ -43,7 +43,8 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
 
-## .stack  
+## .stack, .systems, .philosophy  
+> _I build systems that are dependable, thoughtful, and made to last._
 
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
@@ -51,72 +52,134 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 <div align="center">
 
-| 🖥️ **Frontend** | ⚙️ **Backend & DevOps** |
-|:-----------------|:------------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-0A0F18?logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0A0F18?logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0F18?logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F18?logo=typescript&logoColor=3178C6) <br> ![React](https://img.shields.io/badge/React-0A0F18?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0A0F18?logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0F18?logo=tailwindcss&logoColor=38B2AC) ![Radix UI](https://img.shields.io/badge/Radix_UI-0A0F18?logo=radixui&logoColor=E2E8F0) <br> ![MUI](https://img.shields.io/badge/MUI-0A0F18?logo=mui&logoColor=007FFF) ![Vite](https://img.shields.io/badge/Vite-0A0F18?logo=vite&logoColor=646CFF) ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-0A0F18?logo=testinglibrary&logoColor=E33332) | ![Node.js](https://img.shields.io/badge/Node.js-0A0F18?logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-0A0F18?logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-0A0F18?logo=prisma&logoColor=2D3748) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F18?logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-0A0F18?logo=mongodb&logoColor=47A248) ![GraphQL](https://img.shields.io/badge/GraphQL-0A0F18?logo=graphql&logoColor=E10098) <br> ![Jest](https://img.shields.io/badge/Jest-0A0F18?logo=jest&logoColor=C21325) ![Vitest](https://img.shields.io/badge/Vitest-0A0F18?logo=vitest&logoColor=729B1B) ![Supertest](https://img.shields.io/badge/Supertest-0A0F18?logo=mocha&logoColor=8D6748) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F18?logo=githubactions&logoColor=2088FF) <br> ![Docker](https://img.shields.io/badge/Docker-0A0F18?logo=docker&logoColor=2496ED) ![AWS](https://img.shields.io/badge/AWS-0A0F18?logo=amazonaws&logoColor=FF9900) |
+### Application Architecture  
+**Languages & Frameworks:**  
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript (ES6+)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <sup>(ES6+)</sup>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 </div>
+
+> _I build applications that balance structure and simplicity._  
+> _Most of what I build is centered on predictable, maintainable design — code that’s easy for others to read, extend, and trust._  
+> _I enjoy working across the stack and finding the small architectural decisions that make large systems feel intuitive._
 
 <div align="center">
 
-### 🧪 Testing & Quality
-![Jest](https://img.shields.io/badge/Jest-0A0F18?logo=jest&logoColor=C21325)
-![Vitest](https://img.shields.io/badge/Vitest-0A0F18?logo=vitest&logoColor=729B1B)
-![Supertest](https://img.shields.io/badge/Supertest-0A0F18?logo=mocha&logoColor=8D6748)
-![ESLint](https://img.shields.io/badge/ESLint-0A0F18?logo=eslint&logoColor=4B32C3)
-![Prettier](https://img.shields.io/badge/Prettier-0A0F18?logo=prettier&logoColor=F7B93E)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-0A0F18?logo=githubactions&logoColor=2088FF)
+### Data & Persistence  
+**Databases & ORM:**  
 
-
-### 🧰 Tooling & Collaboration
-![Git](https://img.shields.io/badge/Git-0A0F18?logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A0F18?logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0A0F18?logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-0A0F18?logo=figma&logoColor=F24E1E)
-![Notion](https://img.shields.io/badge/Notion-0A0F18?logo=notion&logoColor=FFFFFF)
-![Confluence](https://img.shields.io/badge/Confluence-0A0F18?logo=confluence&logoColor=172B4D)
-![Jira](https://img.shields.io/badge/Jira-0A0F18?logo=jira&logoColor=0052CC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 </div>
 
-#### currently exploring  .. 
-<p>cloud infrastructure, observability, and data engineering pipelines</p>
-<p>to strengthen system scalability and analytics insight .. </p>
-<br></br>
+> _I try to design data models that reflect real-world logic as much as business rules.  
+> _For me, a good schema makes collaboration easier — when data makes sense, conversations do too.  
+> _I believe that clarity in data design quietly supports every feature that depends on it.
+
 <div align="center">
 
-| ☁️ **Cloud & Infrastructure** | 🧮 **Data & AI Engineering** |
-|:------------------------------|:-----------------------------|
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0F18?logo=kubernetes&logoColor=326CE5) ![Terraform](https://img.shields.io/badge/Terraform-0A0F18?logo=terraform&logoColor=7B42BC) ![Ansible](https://img.shields.io/badge/Ansible-0A0F18?logo=ansible&logoColor=EE0000) <br> ![Datadog](https://img.shields.io/badge/Datadog-0A0F18?logo=datadog&logoColor=632CA6) ![CloudWatch](https://img.shields.io/badge/CloudWatch-0A0F18?logo=amazonaws&logoColor=FF9900) | ![Python](https://img.shields.io/badge/Python-0A0F18?logo=python&logoColor=3776AB) ![Snowflake](https://img.shields.io/badge/Snowflake-0A0F18?logo=snowflake&logoColor=29B5E8) ![dbt](https://img.shields.io/badge/dbt-0A0F18?logo=dbt&logoColor=FF694B) ![Airflow](https://img.shields.io/badge/Airflow-0A0F18?logo=apacheairflow&logoColor=017CEE) <br> ![LangChain](https://img.shields.io/badge/LangChain-0A0F18?logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-0A0F18?logo=openai&logoColor=412991) |
+### Reliability & Testing  
+**Tools:**  
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9419?style=flat-square&logo=vitest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/RTL-E33332?style=flat-square&logo=testing-library&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-373737?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
+
+> _I set up tests and pipelines to make progress steady and dependable._  
+> _Testing is something I enjoy because it helps the team move quickly without fear of regression._  
+> _My focus is on small, consistent safeguards that build trust over time._
+
+<div align="center">
+
+### Infrastructure & Deployment  
+**Tools:**  
+
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) <sup>(EC2, S3, CloudWatch)</sup>
+<br>
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B45B3?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) <sup>(learning..)</sup>
+
+</div>
+
+> _Working with infrastructure keeps me close to how code actually lives in production._  
+> _I like the rhythm of building, deploying, and observing how systems behave in real environments._  
+> _My goal is to make deployment and maintenance feel calm and repeatable — not a source of anxiety._
+
+<div align="center">
+
+### Observability & System Health  
+**Tools:**  
+
+![Datadog](https://img.shields.io/badge/Observability-Datadg-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+<br>
+![OpenTelemetry](https://img.shields.io/badge/Tracing-OpenTelemetry-FF6900?style=flat-square&logo=opentelemetry&logoColor=white) <sup>(learning..)</sup>
+
+</div>
+
+> _For me, understanding performance and behavior early helps prevent noise later._  
+> _I enjoy integrating visibility into systems — logging, metrics, tracing — so issues surface clearly and recovery is faster._  
+> _There’s a quiet satisfaction in seeing a system tell you what it needs before something breaks._
+
+<div align="center">
+
+### Data & Intelligence (Exploring)  
+**Tools:**  
+
+![Python](https://img.shields.io/badge/Data-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Warehouse-Snowflake-28A2CC?style=flat-square&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/Transform-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Orchestration-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/AI/ML-LangChain-229954?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+> _I’m drawn to how data and automation can help products make smarter decisions._  
+> _I’ve been exploring modern data pipelines and AI integration to understand how insights can flow naturally into the product experience._  
+> _My focus is on connecting information to impact — both for teams and users._
+
+<div align="center">
+
+### Collaboration & Delivery  
+**Tools:**  
+
+![Git](https://img.shields.io/badge/VCS-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/API-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Project-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Docs-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Docs-Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+> _I like when documentation and delivery feel seamless with development._  
+> _I keep my work visible and well-documented so others can build on it easily._  
+> _For me, communication is a kind of infrastructure — it keeps everything running smoothly._
+
 <p>
   <img src="shine.gif" alt="divider line" width="100%">
 </p>
 
-<p>
-  <img src="scribble.gif" alt="divider line" width="50%">
-</p>
-
-## .philosophy 
-
-<p align="center">
-  <img src="thinking.gif" alt="KC pretending to think" width="30%">
-</p>
-
-  > - **think like a product** - define outcomes before architecture, success metrics before syntax.. or we’ll end up shipping the wrong thing beautifully.  
-  > - **build like i'll maintain it** - clean, observable, testable code is cheaper than therapy later - and it's also how I apologize to my future self.
-  > - **communicate like a teammate** - clarity, empathy, and a touch of over-explaining never hurt anyone.. and it actually scales.  
-
-i see engineering as a conversation between design, logic, and people - not just code. 
-it’s about translating “it works on my machine” into “it works for the user.” 
-because sometimes, the hardest bug to fix is *miscommunication*. (╭ರ_•́)
-
-<p align="center"><em>// commit: documented my existential coding beliefs</em></p>
+> _TL;DR: I care about systems that age well — in their design, their data, and in how people work with them every day._
 
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
+
 <details>
 <summary><h2>.codewars-rank</h2></summary>   
 
