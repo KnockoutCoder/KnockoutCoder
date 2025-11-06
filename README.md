@@ -44,7 +44,7 @@ my focus is on systems that are calm under pressure, transparent in behavior, an
 
 my background in customer success and delivery keeps me grounded in outcomes. 
 
-it has given me a front-row view of how differently organizations think and reminds me that the _good engineering is quiet confidence - seen not in how much it does, but in how well it **endures**._
+it has given me a front-row view of how differently organizations think and reminds me that _good engineering is quiet confidence - seen not in how much it does, but in how well it **endures**._
 
 🚨 pleaaaase feel free to drop me a DM on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-B497FF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kcninal)
@@ -202,13 +202,14 @@ also, it finally justifies the hours I’ve spent color-matching code editors to
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
 </p>
-<summary><h2>.codewars</h2></summary>   
+
+## .codewars
 
 <p align="center">
   <img src="https://www.codewars.com/users/kryscel/badges/large" alt="Codewars Badge">
 </p>
 
-<summary><h2>.github-stats</h2></summary>
+## .github-stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnockoutCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="margin: 10px 0;" />
