@@ -65,7 +65,7 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 </div>
 
 > _I build applications that balance structure and simplicity._  
-> _Most of what I build is centered on predictable, maintainable design — code that’s easy for others to read, extend, and trust._  
+> _Most of what I build is centered on predictable, maintainable design - code that’s easy for others to read, extend, and trust._  
 > _I enjoy working across the stack and finding the small architectural decisions that make large systems feel intuitive._
 
 <div align="center">
@@ -79,9 +79,9 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 </div>
 
-> _I try to design data models that reflect real-world logic as much as business rules.  
-> _For me, a good schema makes collaboration easier — when data makes sense, conversations do too.  
-> _I believe that clarity in data design quietly supports every feature that depends on it.
+> _I try to design data models that reflect real-world logic as much as business rules._  
+> _For me, a good schema makes collaboration easier - when data makes sense, conversations do too._  
+> _I believe that clarity in data design quietly supports every feature that depends on it._
 
 <div align="center">
 
@@ -109,7 +109,7 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) <sup>(EC2, S3, CloudWatch)</sup>
 <br>
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B45B3?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) <sup>(learning..)</sup>
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) <sup>(learning)</sup>
 
 </div>
 
@@ -125,12 +125,12 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 ![Datadog](https://img.shields.io/badge/Observability-Datadg-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
 <br>
-![OpenTelemetry](https://img.shields.io/badge/Tracing-OpenTelemetry-FF6900?style=flat-square&logo=opentelemetry&logoColor=white) <sup>(learning..)</sup>
+![OpenTelemetry](https://img.shields.io/badge/Tracing-OpenTelemetry-FF6900?style=flat-square&logo=opentelemetry&logoColor=white) <sup>(learning)</sup>
 
 </div>
 
 > _For me, understanding performance and behavior early helps prevent noise later._  
-> _I enjoy integrating visibility into systems — logging, metrics, tracing — so issues surface clearly and recovery is faster._  
+> _I enjoy integrating visibility into systems - logging, metrics, tracing — so issues surface clearly and recovery is faster._  
 > _There’s a quiet satisfaction in seeing a system tell you what it needs before something breaks._
 
 <div align="center">
@@ -149,7 +149,7 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
 
 > _I’m drawn to how data and automation can help products make smarter decisions._  
 > _I’ve been exploring modern data pipelines and AI integration to understand how insights can flow naturally into the product experience._  
-> _My focus is on connecting information to impact — both for teams and users._
+> _My focus is on connecting information to impact - both for teams and users._
 
 <div align="center">
 
@@ -174,7 +174,7 @@ if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆�
   <img src="shine.gif" alt="divider line" width="100%">
 </p>
 
-> _TL;DR: I care about systems that age well — in their design, their data, and in how people work with them every day._
+> _TL;DR: I care about systems that age well - in their design, their data, and in how people work with them every day._
 
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
