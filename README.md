@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner (2).gif" alt="Hi there, I'm Kacey Niñal (~KC)" width="100%">
-</p>
-
 <p align="center" style="font-size:20px; font-weight:600; max-width: 800px;"><em>
   <strong>ex–Customer Success & Service Delivery Manager → Full-Stack Product Developer</strong></em>
 </p>
@@ -14,19 +10,11 @@
   ˗ˏˋ ꒰ ✉︎ ꒱ ˎˊ˗ <a href="https://www.linkedin.com/in/kcninal">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; ⁴⁰⁴ <a href="https://github.com/KnockoutCoder">GitHub</a>
 </p>
 
----
+<br>
 
-<p align=center">
-  <img src="101line.png" alt="divider line" width="100%">
-</p>
-
-## .me
+<img align="left" src="hi.gif" alt="Hi there, I'm Kacey Niñal (~KC)" width="40%" style="display: inline-block;">
 
 i started on the other side of the ticket queue - leading back-to-back client meetings, training teams, running adoption audits, and pretending my Wi-Fi could handle one more Loom recording. 
-
-<p align="center">
-  <img src="officeladysmiling.gif" alt="KC working somehow" width="30%">
-</p>
 
 after years helping SaaS teams and marketplaces ship big, messy launches, I swapped onboarding checklists, delivery decks, and QBR meetings for designing, refactoring, and re-imagining systems - helping build the very platforms I once helped businesses grow on.
 
@@ -49,6 +37,9 @@ it has given me a front-row view of how differently organizations think and remi
 🚨 pleaaaase feel free to drop me a DM on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-B497FF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kcninal)
 if your coffee’s gone cold waiting for a build to pass. ˙✧˖°☕ ༘ ⋆｡ ˚ 
+
+
+---
 
 <p>
   <img src="scribble.gif" alt="divider line" width="50%">
