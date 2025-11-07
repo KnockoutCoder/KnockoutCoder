@@ -25,7 +25,6 @@ the harsh reality is that most users never see the complexity of systems at scal
 working with business users - from small teams to large-scale enterprises - has taught me how small decisions ripple: how a setting’s behavior can shape business logic, how a page’s load time can affect trust, and how missing guidance can quietly slow someone’s day. 
 
 over time, I’ve seen how these moments - good or bad - compound into something larger: the kind of experience that earns **renewal**, or the kind that quietly drives **churn**.
-
 <br></br>
 **i build with that in mind**. 
 <br></br>
@@ -33,7 +32,7 @@ my focus is on systems that are calm under pressure, transparent in behavior, an
 
 my background in customer success and delivery keeps me grounded in outcomes. 
 
-it has given me a front-row view of how differently organizations think and reminds me that growing a sticky product involves understanding users and solving their real problems and that _good engineering is quiet confidence - seen not in how much it does, but in how well it **endures**._
+it’s given me a front-row view of how organizations think, where friction lives, and why some products earn loyalty while others fade. it reminds me that building something sticky means solving real problems with empathy - and that _good engineering carries a quiet confidence - seen not in how much it does, but in how well it **endures**._
 
 🚨 pleaaaase feel free to drop me a DM on 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kacey%20Niñal-B497FF?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kcninal)
